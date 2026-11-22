@@ -1,8 +1,20 @@
-# Bad Time Simulator — Undertale & Deltarune Fan Battle Hub
+# Bad Time Simulator
 
-**Play Sans fights, discover fan-made boss battles, and explore Undertale & Deltarune fight simulators directly in your browser.**
+### Undertale & Deltarune Fan Battle Hub
 
-**[Explore Bad Time Simulator →](https://badtimesimulator.me/)**
+Explore browser-playable Sans fights, Undertale alternate-universe encounters, Deltarune battles, and community-made boss simulators. Discover new games, read practical instructions, and improve your timing against familiar and unexpected attack patterns.
+
+**[Play Bad Time Simulator](https://badtimesimulator.me/)**
+
+## Start Here
+
+| What would you like to explore? | Start with |
+| --- | --- |
+| The classic Sans encounter | [Bad Time Simulator game hub](https://badtimesimulator.me/) |
+| Alternate Sans battles | [Sans fight collection](https://badtimesimulator.me/games/sans/) |
+| Undertale bosses | [Omega Flowey](https://badtimesimulator.me/omega-flowey-fight-simulator/) and [Last Breath](https://badtimesimulator.me/undertale-last-breath/) |
+| Deltarune-inspired encounters | [Deltarune fight collection](https://badtimesimulator.me/games/deltarune/) |
+| Offline Sans practice | [Chrome extension](https://chromewebstore.google.com/detail/klkeceaopmeiifnlfbhkkfiijjpkjcng) |
 
 ## About Bad Time Simulator
 
@@ -90,6 +102,13 @@ These modes apply to the classic simulator. Other fan-made games may offer diffe
 
 Improvement comes from recognizing patterns, controlling movement, and developing consistent timing rather than relying on reflexes alone.
 
+### Troubleshooting and Compatibility
+
+- **Keyboard input is not responding:** Click inside the game window to give it focus, then try the controls described on the game page.
+- **A battle is taking too long to load:** Allow the game to initialize. If it remains stuck, refresh the page and check whether browser extensions are interfering.
+- **The controls feel different:** Fan-made games can have different keyboard mappings, modes, and interaction patterns; follow each game's instructions.
+- **Playing on mobile:** Touchscreen support varies across games. Use a keyboard when a fight depends on precise movement.
+
 ## Play Sans Fight Offline with the Chrome Extension
 
 Bad Time Simulator also offers a browser extension for players who want convenient access to the classic Sans encounter without opening the website each time.
@@ -158,7 +177,7 @@ Bad Time Simulator is an independent fan-game collection. It is not affiliated w
 
 Undertale and Deltarune characters, names, and related intellectual property belong to their respective rights holders. Individual fan-made games and original contributions belong to their respective creators.
 
-This organization does not claim ownership or authorship of third-party games featured in the collection.
+This organization does not claim ownership or authorship of third-party games featured in the collection. For corrections, attribution concerns, or removal inquiries, contact the address above.
 
 ---
 
