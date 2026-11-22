@@ -2,19 +2,15 @@
 
 ### Undertale & Deltarune Fan Battle Hub
 
-Explore browser-playable Sans fights, Undertale alternate-universe encounters, Deltarune battles, and community-made boss simulators. Discover new games, read practical instructions, and improve your timing against familiar and unexpected attack patterns.
+Bad Time Simulator is a browser-based collection of fan-made Undertale and Deltarune battle games. Explore Sans fights, boss encounters, and alternate-universe challenges, with gameplay descriptions, control guides, and related-game recommendations.
 
-**[Play Bad Time Simulator](https://badtimesimulator.me/)**
+## Quick Links
 
-## Start Here
-
-| What would you like to explore? | Start with |
-| --- | --- |
-| The classic Sans encounter | [Bad Time Simulator game hub](https://badtimesimulator.me/) |
-| Alternate Sans battles | [Sans fight collection](https://badtimesimulator.me/games/sans/) |
-| Undertale bosses | [Omega Flowey](https://badtimesimulator.me/omega-flowey-fight-simulator/) and [Last Breath](https://badtimesimulator.me/undertale-last-breath/) |
-| Deltarune-inspired encounters | [Deltarune fight collection](https://badtimesimulator.me/games/deltarune/) |
-| Offline Sans practice | [Chrome extension](https://chromewebstore.google.com/detail/klkeceaopmeiifnlfbhkkfiijjpkjcng) |
+- **[Play Bad Time Simulator](https://badtimesimulator.me/)** — Main website and game collection
+- **[Sans Battles](https://badtimesimulator.me/games/sans/)** — Classic and alternate Sans fights
+- **[Undertale Games](https://badtimesimulator.me/games/undertale/)** — Boss encounters and fan-made Undertale battles
+- **[Deltarune Games](https://badtimesimulator.me/games/deltarune/)** — Deltarune-inspired simulators
+- **[Sans Fight Chrome Extension](https://chromewebstore.google.com/detail/klkeceaopmeiifnlfbhkkfiijjpkjcng)** — Optional offline practice
 
 ## About Bad Time Simulator
 
@@ -38,7 +34,7 @@ Players must learn precise movement, handle changing gravity, dodge bone attacks
 
 The collection includes the classic Bad Time Simulator experience alongside alternative Sans battles and fan-made variations.
 
-**[Browse Sans Battle Games](https://badtimesimulator.me/games/sans/)**
+For related battles, visit the Sans Battles category in Quick Links above.
 
 ### Undertale Boss Battles
 
@@ -48,8 +44,8 @@ Some experiences focus on recreating recognizable encounters, while others intro
 
 Featured examples include:
 
-- **[Omega Flowey Fight Simulator](https://badtimesimulator.me/omega-flowey-fight-simulator/)** — A browser-playable encounter inspired by Photoshop Flowey, including the six human SOUL phases.
-- **[Undertale Last Breath Simulator](https://badtimesimulator.me/undertale-last-breath/)** — Explore a multi-phase Sans battle inspired by the Undertale Last Breath fan project.
+- **Omega Flowey Fight Simulator** — A browser-playable encounter inspired by Photoshop Flowey, including the six human SOUL phases.
+- **Undertale Last Breath Simulator** — Explore a multi-phase Sans battle inspired by the Undertale Last Breath fan project.
 
 ### Deltarune Fight Simulators
 
@@ -57,9 +53,9 @@ Explore fan-made battles inspired by Deltarune's characters, Dark Worlds, and ev
 
 The collection includes encounters featuring familiar characters as well as community-created interpretations of possible boss fights.
 
-One example is the **[DEVICE_KNIGHT Simulator](https://badtimesimulator.me/roaring-knight-fight/)**, a fan battle inspired by the mysterious Roaring Knight.
+One example is the **DEVICE_KNIGHT Simulator**, a fan battle inspired by the mysterious Roaring Knight.
 
-**[Explore Deltarune Games](https://badtimesimulator.me/games/deltarune/)**
+The Deltarune Games category above includes further encounters and character-inspired battles.
 
 ## How to Play Bad Time Simulator
 
@@ -121,7 +117,7 @@ The Chrome extension provides:
 - Fullscreen gameplay in a dedicated browser tab
 - A convenient way to practice without a continuous internet connection
 
-**[Bad Time Simulator – Sans Fight on the Chrome Web Store](https://chromewebstore.google.com/detail/klkeceaopmeiifnlfbhkkfiijjpkjcng)**
+See the Sans Fight Chrome Extension link in Quick Links above for installation and additional information.
 
 ## Website Features
 
@@ -183,4 +179,3 @@ This organization does not claim ownership or authorship of third-party games fe
 
 **Bad Time Simulator — Discover new battles, practice familiar encounters, and explore the creativity of the Undertale and Deltarune fan-game communities.**
 
-**[Visit Bad Time Simulator](https://badtimesimulator.me/)**
