@@ -12,6 +12,12 @@ Bad Time Simulator is a browser-based collection of fan-made Undertale and Delta
 - **[Deltarune Games](https://badtimesimulator.me/games/deltarune/)** — Deltarune-inspired simulators
 - **[Sans Fight Chrome Extension](https://chromewebstore.google.com/detail/klkeceaopmeiifnlfbhkkfiijjpkjcng)** — Optional offline practice
 
+## Website Preview
+
+![Bad Time Simulator homepage featuring the Sans fight player, game search, featured battles, and popular games](assets/bad-time-simulator-homepage.webp)
+
+*Screenshot of the Bad Time Simulator browser game hub.*
+
 ## About Bad Time Simulator
 
 Bad Time Simulator is a browser-based gaming hub dedicated to Undertale, Deltarune, and their fan-made battle communities.
